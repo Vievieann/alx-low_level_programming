@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * *main-this is a print function
- * *Return:0
- * */
+ * main-this is a put function
+ * Return:0
+ */
 int main(void)
 {
 	puts("\"programming is like building a multilingual puzzle");
