@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * putshalf - function name
- * @str: function parameter
- */
+  * putshalf - function name
+  * @str: function parameter
+  */
 
 void puts_half(char *str)
 {
@@ -18,7 +18,7 @@ for (i = 0; str[i] != '\0'; i++)
 for (i = n + 1; str[i] != '\0'; i++)
 {
 	putchar(str[i]);
-}	
+}
 	putchar('\n');
 }
 
